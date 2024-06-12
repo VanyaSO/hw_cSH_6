@@ -1,0 +1,14 @@
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/bin/Debug/net8.0/hw_cSH_6
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/bin/Debug/net8.0/hw_cSH_6.deps.json
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/bin/Debug/net8.0/hw_cSH_6.runtimeconfig.json
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/bin/Debug/net8.0/hw_cSH_6.dll
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/bin/Debug/net8.0/hw_cSH_6.pdb
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.dll
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/refint/hw_cSH_6.dll
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.pdb
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/hw_cSH_6.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/hw_cSH_6/hw_cSH_6/obj/Debug/net8.0/ref/hw_cSH_6.dll
